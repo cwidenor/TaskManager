@@ -1,4 +1,4 @@
-# Task-Manager: A task manager built with GTK in C by Kyle Buzza, Isabel Battaglioli, and Christopher Octavius Widenor
+# Task-Manager: A task manager built with GTK in C by Kyle Buzza, Isabel Battaglioli, and Christopher Widenor
 
 **Work Distribution**
 - `Kyle: Backend & Proc Filesystem Information`
